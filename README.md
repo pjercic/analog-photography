@@ -1,7 +1,7 @@
 # 🌑 The Analog Open Science Academy
 > *From the photon to the print: A full-stack curriculum in analog photography.*
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: CC BY 4.0][cc-by-shield]][cc-by]
 [![Curriculum: Spiral](https://img.shields.io/badge/Curriculum-Spiral-blueviolet)](https://en.wikipedia.org/wiki/Spiral_curriculum)
 [![Discipline: STEAM](https://img.shields.io/badge/Discipline-STEAM-blue)](https://education.github.com/)
 
@@ -55,4 +55,11 @@ We welcome contributions from teachers, chemists, and photographers!
 3. Submit a Pull Request.
 
 ## 📄 License
-This curriculum is licensed under the MIT License. You are free to use, modify, and teach this material.
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
